@@ -51,7 +51,7 @@
 
 	button {
 		margin-top: 10px;
-		background-color: #007bff;
+		background-color: #3b2fff;
 		color: white;
 		border: none;
 		padding: 10px 15px;
